@@ -26,7 +26,7 @@ pkg install python git -y
 pip install colorama
 ```
 ```bash
-git clone https://github.com/XPH4N70M/WA_CRASHER
+git clone https://github.com/Anonymouscoderboy/WA-Crasher
 ```
 ```bash
 cd WA_CRASHER
